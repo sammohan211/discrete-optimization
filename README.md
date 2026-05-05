@@ -33,3 +33,12 @@ print(inst.solve())
 ```
 
 Or launch the IDE: `MiniZincIDE`.
+
+## Layout
+
+- `examples/` — small standalone snippets.
+- `workshops/` — exercises from the MiniZinc course; see [`workshops/README.md`](workshops/README.md).
+
+## License
+
+[MIT](LICENSE)
